@@ -1,0 +1,19 @@
+.my-name {
+    display:flex;
+    justify-content:center;
+    margin-top:7rem;
+    font-size:5rem;
+}
+
+.software-developer {
+    display:flex;
+    justify-content:center;
+    font-size:2rem;
+}
+
+.self-paragraph {
+    width:80%;
+    margin:0 auto;
+    margin-top:10rem;
+    font-size:1.5rem;
+}
